@@ -3,16 +3,17 @@
 LemonTree Training Project vom 13.12.2022
 
 
-## Setup Local Repository
+## Setup Local Git Repository
 
-### Repos clonen
+### Git Repos clonen
 
 +  `git clone https://github.com/thomasbesorna/LemonTreeTraining`
 
 ### LFS aktivieren und für .QEAX Dateien
-======================================
 
 +  `git lfs install`
 +  `git lfs track "*.qeax"`
 
+## EA-Repos Datei hinzufügen
 
++  `git add TrainerDemoModel.qeax`
