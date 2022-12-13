@@ -1,0 +1,9 @@
+
+git clone https://github.com/thomasbesorna/LemonTreeTraining
+
+git lfs install
+
+git lfs track "*.qeax"
+
+
+
